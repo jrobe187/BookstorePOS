@@ -1,0 +1,682 @@
+
+ 
+productID,type,title,author/artist,numInStock,price
+1,book,fahrenheit 451, 8,9.99
+ 
+productID,type,title,author/artist,numInStock,price
+2,book,1984, 5,15.99
+ 
+productID,type,title,author/artist,numInStock,price
+3,book,to kill a mockingbird, 12,12.99
+ 
+productID,type,title,author/artist,numInStock,price
+4,book,beloved, 4,13.5
+ 
+productID,type,title,author/artist,numInStock,price
+5,book,the little prince, 10,7.0
+ 
+productID,type,title,author/artist,numInStock,price
+6,book,brave new world, 15,19.0
+ 
+productID,type,title,author/artist,numInStock,price
+7,book,charlotte's web, 10,8.99
+ 
+productID,type,title,author/artist,numInStock,price
+8,book,hitchhiker's guide to the galaxy, 5,9.99
+ 
+productID,type,title,author/artist,numInStock,price
+9,book,catch-22, 20,11.99
+ 
+productID,type,title,author/artist,numInStock,price
+10,book,flowers for algernon, 7,6.99
+ 
+productID,type,title,author/artist,numInStock,price
+11,cd,a night at the opera, 14,6.99
+ 
+productID,type,title,author/artist,numInStock,price
+12,cd,cuz I love you, 8,7.99
+ 
+productID,type,title,author/artist,numInStock,price
+13,cd,a hard day's night, 3,3.99
+ 
+productID,type,title,author/artist,numInStock,price
+14,dvd,the dark knight, 5,12.99
+ 
+productID,type,title,author/artist,numInStock,price
+15,dvd,jurassic park, 7,7.99
+ 
+productID,type,title,author/artist,numInStock,price
+1,book,fahrenheit 451, 8,9.99
+ 
+productID,type,title,author/artist,numInStock,price
+2,book,1984, 5,15.99
+ 
+productID,type,title,author/artist,numInStock,price
+3,book,to kill a mockingbird, 12,12.99
+ 
+productID,type,title,author/artist,numInStock,price
+4,book,beloved, 4,13.5
+ 
+productID,type,title,author/artist,numInStock,price
+5,book,the little prince, 10,7.0
+ 
+productID,type,title,author/artist,numInStock,price
+6,book,brave new world, 15,19.0
+ 
+productID,type,title,author/artist,numInStock,price
+7,book,charlotte's web, 10,8.99
+ 
+productID,type,title,author/artist,numInStock,price
+8,book,hitchhiker's guide to the galaxy, 5,9.99
+ 
+productID,type,title,author/artist,numInStock,price
+9,book,catch-22, 20,11.99
+ 
+productID,type,title,author/artist,numInStock,price
+10,book,flowers for algernon, 7,6.99
+ 
+productID,type,title,author/artist,numInStock,price
+11,cd,a night at the opera, 14,6.99
+ 
+productID,type,title,author/artist,numInStock,price
+12,cd,cuz I love you, 8,7.99
+ 
+productID,type,title,author/artist,numInStock,price
+13,cd,a hard day's night, 3,3.99
+ 
+productID,type,title,author/artist,numInStock,price
+14,dvd,the dark knight, 5,12.99
+ 
+productID,type,title,author/artist,numInStock,price
+15,dvd,jurassic park, 7,7.99
+ 
+productID,type,title,author/artist,numInStock,price
+1,book,fahrenheit 451, 8,9.99
+ 
+productID,type,title,author/artist,numInStock,price
+2,book,1984, 5,15.99
+ 
+productID,type,title,author/artist,numInStock,price
+3,book,to kill a mockingbird, 12,12.99
+ 
+productID,type,title,author/artist,numInStock,price
+4,book,beloved, 4,13.5
+ 
+productID,type,title,author/artist,numInStock,price
+5,book,the little prince, 10,7.0
+ 
+productID,type,title,author/artist,numInStock,price
+6,book,brave new world, 15,19.0
+ 
+productID,type,title,author/artist,numInStock,price
+7,book,charlotte's web, 10,8.99
+ 
+productID,type,title,author/artist,numInStock,price
+8,book,hitchhiker's guide to the galaxy, 5,9.99
+ 
+productID,type,title,author/artist,numInStock,price
+9,book,catch-22, 20,11.99
+ 
+productID,type,title,author/artist,numInStock,price
+10,book,flowers for algernon, 7,6.99
+ 
+productID,type,title,author/artist,numInStock,price
+11,cd,a night at the opera, 14,6.99
+ 
+productID,type,title,author/artist,numInStock,price
+12,cd,cuz I love you, 8,7.99
+ 
+productID,type,title,author/artist,numInStock,price
+13,cd,a hard day's night, 3,3.99
+ 
+productID,type,title,author/artist,numInStock,price
+14,dvd,the dark knight, 5,12.99
+ 
+productID,type,title,author/artist,numInStock,price
+15,dvd,jurassic park, 7,7.99
+ 
+productID,type,title,author/artist,numInStock,price
+1,book,fahrenheit 451,ray bradbury,8,9.99
+ 
+productID,type,title,author/artist,numInStock,price
+2,book,1984,george orwell,5,15.99
+ 
+productID,type,title,author/artist,numInStock,price
+3,book,to kill a mockingbird,harper lee,12,12.99
+ 
+productID,type,title,author/artist,numInStock,price
+4,book,beloved,toni morrison,4,13.5
+ 
+productID,type,title,author/artist,numInStock,price
+5,book,the little prince,antoine de saint exupéry,10,7.0
+ 
+productID,type,title,author/artist,numInStock,price
+6,book,brave new world,aldous huxley,15,19.0
+ 
+productID,type,title,author/artist,numInStock,price
+7,book,charlotte's web,e.b. white,10,8.99
+ 
+productID,type,title,author/artist,numInStock,price
+8,book,hitchhiker's guide to the galaxy,douglas adams,5,9.99
+ 
+productID,type,title,author/artist,numInStock,price
+9,book,catch-22,joseph heller,20,11.99
+ 
+productID,type,title,author/artist,numInStock,price
+10,book,flowers for algernon,daniel keyes,7,6.99
+ 
+productID,type,title,author/artist,numInStock,price
+11,cd,a night at the opera,queen,14,6.99
+ 
+productID,type,title,author/artist,numInStock,price
+12,cd,cuz I love you,lizzo,8,7.99
+ 
+productID,type,title,author/artist,numInStock,price
+13,cd,a hard day's night,the beatles,3,3.99
+ 
+productID,type,title,author/artist,numInStock,price
+14,dvd,the dark knight,n/a,5,12.99
+ 
+productID,type,title,author/artist,numInStock,price
+15,dvd,jurassic park,n/a ,7,7.99
+ 
+productID,type,title,author/artist,numInStock,price
+16,dvd,asdf,me,4,1.99
+ 
+productID,type,title,author/artist,numInStock,price
+1,book,fahrenheit 451,ray bradbury,8,9.99
+ 
+productID,type,title,author/artist,numInStock,price
+2,book,1984,george orwell,5,15.99
+ 
+productID,type,title,author/artist,numInStock,price
+3,book,to kill a mockingbird,harper lee,12,12.99
+ 
+productID,type,title,author/artist,numInStock,price
+4,book,beloved,toni morrison,4,13.5
+ 
+productID,type,title,author/artist,numInStock,price
+5,book,the little prince,antoine de saint exupéry,10,7.0
+ 
+productID,type,title,author/artist,numInStock,price
+6,book,brave new world,aldous huxley,15,19.0
+ 
+productID,type,title,author/artist,numInStock,price
+7,book,charlotte's web,e.b. white,10,8.99
+ 
+productID,type,title,author/artist,numInStock,price
+8,book,hitchhiker's guide to the galaxy,douglas adams,5,9.99
+ 
+productID,type,title,author/artist,numInStock,price
+9,book,catch-22,joseph heller,20,11.99
+ 
+productID,type,title,author/artist,numInStock,price
+10,book,flowers for algernon,daniel keyes,7,6.99
+ 
+productID,type,title,author/artist,numInStock,price
+11,cd,a night at the opera,queen,14,6.99
+ 
+productID,type,title,author/artist,numInStock,price
+12,cd,cuz I love you,lizzo,8,7.99
+ 
+productID,type,title,author/artist,numInStock,price
+13,cd,a hard day's night,the beatles,3,3.99
+ 
+productID,type,title,author/artist,numInStock,price
+14,dvd,the dark knight,n/a,5,12.99
+ 
+productID,type,title,author/artist,numInStock,price
+15,dvd,jurassic park,n/a ,7,7.99
+ 
+productID,type,title,author/artist,numInStock,price
+1,book,fahrenheit 451,ray bradbury,8,9.99
+ 
+productID,type,title,author/artist,numInStock,price
+2,book,1984,george orwell,5,15.99
+ 
+productID,type,title,author/artist,numInStock,price
+3,book,to kill a mockingbird,harper lee,12,12.99
+ 
+productID,type,title,author/artist,numInStock,price
+4,book,beloved,toni morrison,4,13.5
+ 
+productID,type,title,author/artist,numInStock,price
+5,book,the little prince,antoine de saint exupéry,10,7.0
+ 
+productID,type,title,author/artist,numInStock,price
+6,book,brave new world,aldous huxley,15,19.0
+ 
+productID,type,title,author/artist,numInStock,price
+7,book,charlotte's web,e.b. white,10,8.99
+ 
+productID,type,title,author/artist,numInStock,price
+8,book,hitchhiker's guide to the galaxy,douglas adams,5,9.99
+ 
+productID,type,title,author/artist,numInStock,price
+9,book,catch-22,joseph heller,20,11.99
+ 
+productID,type,title,author/artist,numInStock,price
+10,book,flowers for algernon,daniel keyes,7,6.99
+ 
+productID,type,title,author/artist,numInStock,price
+11,cd,a night at the opera,queen,14,6.99
+ 
+productID,type,title,author/artist,numInStock,price
+12,cd,cuz I love you,lizzo,8,7.99
+ 
+productID,type,title,author/artist,numInStock,price
+13,cd,a hard day's night,the beatles,3,3.99
+ 
+productID,type,title,author/artist,numInStock,price
+14,dvd,the dark knight,n/a,5,12.99
+ 
+productID,type,title,author/artist,numInStock,price
+15,dvd,jurassic park,n/a ,7,7.99
+ 
+productID,type,title,author/artist,numInStock,price
+1,book,fahrenheit 451,ray bradbury,6,9.99
+ 
+productID,type,title,author/artist,numInStock,price
+2,book,1984,george orwell,5,15.99
+ 
+productID,type,title,author/artist,numInStock,price
+3,book,to kill a mockingbird,harper lee,12,12.99
+ 
+productID,type,title,author/artist,numInStock,price
+4,book,beloved,toni morrison,4,13.5
+ 
+productID,type,title,author/artist,numInStock,price
+5,book,the little prince,antoine de saint exupéry,10,7.0
+ 
+productID,type,title,author/artist,numInStock,price
+6,book,brave new world,aldous huxley,15,19.0
+ 
+productID,type,title,author/artist,numInStock,price
+7,book,charlotte's web,e.b. white,10,8.99
+ 
+productID,type,title,author/artist,numInStock,price
+8,book,hitchhiker's guide to the galaxy,douglas adams,5,9.99
+ 
+productID,type,title,author/artist,numInStock,price
+9,book,catch-22,joseph heller,20,11.99
+ 
+productID,type,title,author/artist,numInStock,price
+10,book,flowers for algernon,daniel keyes,7,6.99
+ 
+productID,type,title,author/artist,numInStock,price
+11,cd,a night at the opera,queen,14,6.99
+ 
+productID,type,title,author/artist,numInStock,price
+12,cd,cuz I love you,lizzo,8,7.99
+ 
+productID,type,title,author/artist,numInStock,price
+13,cd,a hard day's night,the beatles,3,3.99
+ 
+productID,type,title,author/artist,numInStock,price
+14,dvd,the dark knight,n/a,5,12.99
+ 
+productID,type,title,author/artist,numInStock,price
+15,dvd,jurassic park,n/a ,7,7.99
+ 
+productID,type,title,author/artist,numInStock,price
+16,dvd,asdfg,asdf,5,9.99
+ 
+productID,type,title,author/artist,numInStock,price
+1,book,fahrenheit 451,ray bradbury,6,9.99
+ 
+productID,type,title,author/artist,numInStock,price
+2,book,1984,george orwell,5,15.99
+ 
+productID,type,title,author/artist,numInStock,price
+3,book,to kill a mockingbird,harper lee,12,12.99
+ 
+productID,type,title,author/artist,numInStock,price
+4,book,beloved,toni morrison,4,13.5
+ 
+productID,type,title,author/artist,numInStock,price
+5,book,the little prince,antoine de saint exupéry,10,7.0
+ 
+productID,type,title,author/artist,numInStock,price
+6,book,brave new world,aldous huxley,15,19.0
+ 
+productID,type,title,author/artist,numInStock,price
+7,book,charlotte's web,e.b. white,10,8.99
+ 
+productID,type,title,author/artist,numInStock,price
+8,book,hitchhiker's guide to the galaxy,douglas adams,5,9.99
+ 
+productID,type,title,author/artist,numInStock,price
+9,book,catch-22,joseph heller,20,11.99
+ 
+productID,type,title,author/artist,numInStock,price
+10,book,flowers for algernon,daniel keyes,7,6.99
+ 
+productID,type,title,author/artist,numInStock,price
+11,cd,a night at the opera,queen,14,6.99
+ 
+productID,type,title,author/artist,numInStock,price
+12,cd,cuz I love you,lizzo,8,7.99
+ 
+productID,type,title,author/artist,numInStock,price
+13,cd,a hard day's night,the beatles,3,3.99
+ 
+productID,type,title,author/artist,numInStock,price
+14,dvd,the dark knight,n/a,5,12.99
+ 
+productID,type,title,author/artist,numInStock,price
+15,dvd,jurassic park,n/a ,7,7.99
+ 
+productID,type,title,author/artist,numInStock,price
+1,book,fahrenheit 451,ray bradbury,6,9.99
+ 
+productID,type,title,author/artist,numInStock,price
+2,book,1984,george orwell,5,15.99
+ 
+productID,type,title,author/artist,numInStock,price
+3,book,to kill a mockingbird,harper lee,12,12.99
+ 
+productID,type,title,author/artist,numInStock,price
+4,book,beloved,toni morrison,4,13.5
+ 
+productID,type,title,author/artist,numInStock,price
+5,book,the little prince,antoine de saint exupéry,10,7.0
+ 
+productID,type,title,author/artist,numInStock,price
+6,book,brave new world,aldous huxley,15,19.0
+ 
+productID,type,title,author/artist,numInStock,price
+7,book,charlotte's web,e.b. white,10,8.99
+ 
+productID,type,title,author/artist,numInStock,price
+8,book,hitchhiker's guide to the galaxy,douglas adams,5,9.99
+ 
+productID,type,title,author/artist,numInStock,price
+9,book,catch-22,joseph heller,20,11.99
+ 
+productID,type,title,author/artist,numInStock,price
+10,book,flowers for algernon,daniel keyes,7,6.99
+ 
+productID,type,title,author/artist,numInStock,price
+11,cd,a night at the opera,queen,14,6.99
+ 
+productID,type,title,author/artist,numInStock,price
+12,cd,cuz I love you,lizzo,8,7.99
+ 
+productID,type,title,author/artist,numInStock,price
+13,cd,a hard day's night,the beatles,3,3.99
+ 
+productID,type,title,author/artist,numInStock,price
+14,dvd,the dark knight,n/a,5,12.99
+ 
+productID,type,title,author/artist,numInStock,price
+15,dvd,jurassic park,n/a ,7,7.99
+ 
+productID,type,title,author/artist,numInStock,price
+1,book,fahrenheit 451,ray bradbury,8,9.99
+ 
+productID,type,title,author/artist,numInStock,price
+2,book,1984,george orwell,5,15.99
+ 
+productID,type,title,author/artist,numInStock,price
+3,book,to kill a mockingbird,harper lee,12,12.99
+ 
+productID,type,title,author/artist,numInStock,price
+4,book,beloved,toni morrison,4,13.5
+ 
+productID,type,title,author/artist,numInStock,price
+5,book,the little prince,antoine de saint exupéry,10,7.0
+ 
+productID,type,title,author/artist,numInStock,price
+6,book,brave new world,aldous huxley,15,19.0
+ 
+productID,type,title,author/artist,numInStock,price
+7,book,charlotte's web,e.b. white,10,8.99
+ 
+productID,type,title,author/artist,numInStock,price
+8,book,hitchhiker's guide to the galaxy,douglas adams,5,9.99
+ 
+productID,type,title,author/artist,numInStock,price
+9,book,catch-22,joseph heller,20,11.99
+ 
+productID,type,title,author/artist,numInStock,price
+10,book,flowers for algernon,daniel keyes,7,6.99
+ 
+productID,type,title,author/artist,numInStock,price
+11,cd,a night at the opera,queen,14,6.99
+ 
+productID,type,title,author/artist,numInStock,price
+12,cd,cuz I love you,lizzo,8,7.99
+ 
+productID,type,title,author/artist,numInStock,price
+13,cd,a hard day's night,the beatles,3,3.99
+ 
+productID,type,title,author/artist,numInStock,price
+14,dvd,the dark knight,n/a,5,12.99
+ 
+productID,type,title,author/artist,numInStock,price
+15,dvd,jurassic park,n/a ,7,7.99
+ 
+productID,type,title,author/artist,numInStock,price
+1,book,fahrenheit 451,ray bradbury,1,9.99
+ 
+productID,type,title,author/artist,numInStock,price
+2,book,1984,george orwell,5,15.99
+ 
+productID,type,title,author/artist,numInStock,price
+3,book,to kill a mockingbird,harper lee,12,12.99
+ 
+productID,type,title,author/artist,numInStock,price
+4,book,beloved,toni morrison,1,13.5
+ 
+productID,type,title,author/artist,numInStock,price
+5,book,the little prince,antoine de saint exupéry,10,7.0
+ 
+productID,type,title,author/artist,numInStock,price
+6,book,brave new world,aldous huxley,14,19.0
+ 
+productID,type,title,author/artist,numInStock,price
+7,book,charlotte's web,e.b. white,10,8.99
+ 
+productID,type,title,author/artist,numInStock,price
+8,book,hitchhiker's guide to the galaxy,douglas adams,5,9.99
+ 
+productID,type,title,author/artist,numInStock,price
+9,book,catch-22,joseph heller,20,11.99
+ 
+productID,type,title,author/artist,numInStock,price
+10,book,flowers for algernon,daniel keyes,7,6.99
+ 
+productID,type,title,author/artist,numInStock,price
+11,cd,a night at the opera,queen,14,6.99
+ 
+productID,type,title,author/artist,numInStock,price
+12,cd,cuz I love you,lizzo,8,7.99
+ 
+productID,type,title,author/artist,numInStock,price
+13,cd,a hard day's night,the beatles,3,3.99
+ 
+productID,type,title,author/artist,numInStock,price
+14,dvd,the dark knight,n/a,5,12.99
+ 
+productID,type,title,author/artist,numInStock,price
+15,dvd,jurassic park,n/a ,7,7.99
+ 
+productID,type,title,author/artist,numInStock,price
+1,book,fahrenheit 451,ray bradbury,1,9.99
+ 
+productID,type,title,author/artist,numInStock,price
+2,book,1984,george orwell,5,15.99
+ 
+productID,type,title,author/artist,numInStock,price
+3,book,to kill a mockingbird,harper lee,12,12.99
+ 
+productID,type,title,author/artist,numInStock,price
+4,book,beloved,toni morrison,1,13.5
+ 
+productID,type,title,author/artist,numInStock,price
+5,book,the little prince,antoine de saint exupéry,10,7.0
+ 
+productID,type,title,author/artist,numInStock,price
+6,book,brave new world,aldous huxley,14,19.0
+ 
+productID,type,title,author/artist,numInStock,price
+7,book,charlotte's web,e.b. white,10,8.99
+ 
+productID,type,title,author/artist,numInStock,price
+8,book,hitchhiker's guide to the galaxy,douglas adams,5,9.99
+ 
+productID,type,title,author/artist,numInStock,price
+9,book,catch-22,joseph heller,20,11.99
+ 
+productID,type,title,author/artist,numInStock,price
+10,book,flowers for algernon,daniel keyes,7,6.99
+ 
+productID,type,title,author/artist,numInStock,price
+11,cd,a night at the opera,queen,14,6.99
+ 
+productID,type,title,author/artist,numInStock,price
+12,cd,cuz I love you,lizzo,8,7.99
+ 
+productID,type,title,author/artist,numInStock,price
+13,cd,a hard day's night,the beatles,3,3.99
+ 
+productID,type,title,author/artist,numInStock,price
+14,dvd,the dark knight,n/a,5,12.99
+ 
+productID,type,title,author/artist,numInStock,price
+15,dvd,jurassic park,n/a ,7,7.99
+ 
+productID,type,title,author/artist,numInStock,price
+1,book,fahrenheit 451,ray bradbury,4,9.99
+ 
+productID,type,title,author/artist,numInStock,price
+2,book,1984,george orwell,5,15.99
+ 
+productID,type,title,author/artist,numInStock,price
+3,book,to kill a mockingbird,harper lee,12,12.99
+ 
+productID,type,title,author/artist,numInStock,price
+4,book,beloved,toni morrison,4,13.5
+ 
+productID,type,title,author/artist,numInStock,price
+5,book,the little prince,antoine de saint exupéry,10,7.0
+ 
+productID,type,title,author/artist,numInStock,price
+6,book,brave new world,aldous huxley,14,19.0
+ 
+productID,type,title,author/artist,numInStock,price
+7,book,charlotte's web,e.b. white,10,8.99
+ 
+productID,type,title,author/artist,numInStock,price
+8,book,hitchhiker's guide to the galaxy,douglas adams,5,9.99
+ 
+productID,type,title,author/artist,numInStock,price
+9,book,catch-22,joseph heller,20,11.99
+ 
+productID,type,title,author/artist,numInStock,price
+10,book,flowers for algernon,daniel keyes,7,6.99
+ 
+productID,type,title,author/artist,numInStock,price
+11,cd,a night at the opera,queen,14,6.99
+ 
+productID,type,title,author/artist,numInStock,price
+12,cd,cuz I love you,lizzo,8,7.99
+ 
+productID,type,title,author/artist,numInStock,price
+13,cd,a hard day's night,the beatles,3,3.99
+ 
+productID,type,title,author/artist,numInStock,price
+14,dvd,the dark knight,n/a,5,12.99
+ 
+productID,type,title,author/artist,numInStock,price
+15,dvd,jurassic park,n/a ,7,7.99
+ 
+productID,type,title,author/artist,numInStock,price
+1,book,fahrenheit 451,ray bradbury,8,9.99
+ 
+productID,type,title,author/artist,numInStock,price
+2,book,1984,george orwell,5,15.99
+ 
+productID,type,title,author/artist,numInStock,price
+3,book,to kill a mockingbird,harper lee,12,12.99
+ 
+productID,type,title,author/artist,numInStock,price
+4,book,beloved,toni morrison,4,13.5
+ 
+productID,type,title,author/artist,numInStock,price
+5,book,the little prince,antoine de saint exupéry,10,7.0
+ 
+productID,type,title,author/artist,numInStock,price
+6,book,brave new world,aldous huxley,15,19.0
+ 
+productID,type,title,author/artist,numInStock,price
+7,book,charlotte's web,e.b. white,10,8.99
+ 
+productID,type,title,author/artist,numInStock,price
+8,book,hitchhiker's guide to the galaxy,douglas adams,5,9.99
+ 
+productID,type,title,author/artist,numInStock,price
+9,book,catch-22,joseph heller,20,11.99
+ 
+productID,type,title,author/artist,numInStock,price
+10,book,flowers for algernon,daniel keyes,7,6.99
+ 
+productID,type,title,author/artist,numInStock,price
+11,cd,a night at the opera,queen,14,6.99
+ 
+productID,type,title,author/artist,numInStock,price
+12,cd,cuz I love you,lizzo,8,7.99
+ 
+productID,type,title,author/artist,numInStock,price
+13,cd,a hard day's night,the beatles,3,3.99
+ 
+productID,type,title,author/artist,numInStock,price
+14,dvd,the dark knight,n/a,5,12.99
+ 
+productID,type,title,author/artist,numInStock,price
+15,dvd,jurassic park,n/a ,7,7.99
+ 
+productID,type,title,author/artist,numInStock,price
+1,book,fahrenheit 451,ray bradbury,8,9.99
+ 
+productID,type,title,author/artist,numInStock,price
+2,book,1984,george orwell,5,15.99
+ 
+productID,type,title,author/artist,numInStock,price
+3,book,to kill a mockingbird,harper lee,12,12.99
+ 
+productID,type,title,author/artist,numInStock,price
+4,book,beloved,toni morrison,4,13.5
+ 
+productID,type,title,author/artist,numInStock,price
+5,book,the little prince,antoine de saint exupéry,10,7.0
+ 
+productID,type,title,author/artist,numInStock,price
+6,book,brave new world,aldous huxley,15,19.0
+ 
+productID,type,title,author/artist,numInStock,price
+7,book,charlotte's web,e.b. white,10,8.99
+ 
+productID,type,title,author/artist,numInStock,price
+8,book,hitchhiker's guide to the galaxy,douglas adams,5,9.99
+ 
+productID,type,title,author/artist,numInStock,price
+9,book,catch-22,joseph heller,20,11.99
+ 
+productID,type,title,author/artist,numInStock,price
+10,book,flowers for algernon,daniel keyes,7,6.99
+ 
+productID,type,title,author/artist,numInStock,price
+11,cd,a night at the opera,queen,14,6.99
+ 
+productID,type,title,author/artist,numInStock,price
+12,cd,cuz I love you,lizzo,8,7.99
+ 
+productID,type,title,author/artist,numInStock,price
+13,cd,a hard day's night,the beatles,3,3.99
+ 
+productID,type,title,author/artist,numInStock,price
+14,dvd,the dark knight,n/a,5,12.99
+ 
+productID,type,title,author/artist,numInStock,price
+15,dvd,jurassic park,n/a ,7,7.99
